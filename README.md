@@ -9,4 +9,4 @@
     <img height="300px" src="https://metrics.lecoq.io/garbar211?template=classic&config.timezone=Asia%2FShanghai"/>
 </div>
 
-![Snake animation](https://github.com/garbar211/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/garbar211/garbar211/blob/output/github-contribution-grid-snake.svg)
