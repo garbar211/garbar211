@@ -6,7 +6,7 @@
 
 
 <div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/garbar211?template=classic&config.timezone=Asia%2FShanghai"/>
+    <img height="300px" src="https://github-readme-stats.vercel.app/api?username=garbar211&show_icons=true&theme=radica"/>
 </div>
 
 ![Snake animation](https://github.com/garbar211/garbar211/blob/output/github-contribution-grid-snake.svg)
