@@ -9,4 +9,3 @@
     <img height="300px" src="https://github-readme-stats.vercel.app/api?username=garbar211&show_icons=true&theme=radica"/>
 </div>
 
-![Snake animation](https://github.com/garbar211/garbar211/blob/output/github-contribution-grid-snake.svg)
